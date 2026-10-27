@@ -1,0 +1,13 @@
+Opções ISS 2  v_0.1 by fja
+
+Opções de ISS Pro Evolution 2 (Europe) (En,Fr,De), codigo do jogo (SLES_033.21).
+
+Esse programa foi desenvolvido em Dephi  para fins de estudo .
+E tambem porque gastava muito tempo para editar tudo isso em um editor de hexadecimal kkkkkk.
+     Ele conta com um editor ao estilo Team Remover by Cuervo , edita velocidade durante as partidas , edita tempo e dificuldade em Liga , Master Liga  e tambem destrava 
+todas as equipes em copas,o arquivo (bandeiras.bin) não pode ser excluido da pasta  do programa .
+
+by FABIO FJA
+
+
+
