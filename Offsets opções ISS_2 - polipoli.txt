@@ -1,0 +1,31 @@
+HABILITAR TODOS LOS EQUIPOS
+
+Offset ISO Iss2 (Multi 3)	942289
+Offset ISO Iss2 (Multi 2)	942289
+Cambiar 00 por FF
+
+Offset ISO Iss2 (Multi 3)	942390
+Offset ISO Iss2 (Multi 2)	942390
+Cambiar 60 por 65
+
+
+VELOCIDAD TURBO (no lo recomiendo)
+
+Offset ISO Iss2 (Multi 3)	942440
+Offset ISO Iss2 (Multi 2)	942440
+Cambiar E801 por 4000
+
+================================================================
+CRÉDITOS INICIO MASTER LEAGUE
+Iss2 (Multi 3) Offset 3369348
+Iss2 (Multi 2) Offset 3369324
+Reemplazar 1400 por E703, se cambian los créditos de 20 a 999
+
+No recomiendo poner mas de 999 creditos porque visualmente queda mal, solo aparecen 3 digitos en los creditos, por ejemplo he puesto 1000 creditos y en el juego aparecian solo los 3 ultimos digitos (000), aunque luego las restas las hace bien, si haces un fichaje de 40 creditos se queda en 960
+
+LÍMITE DE FICHAJES POR JORNADA
+Iss2 (Multi 3) Offset 3369464
+Iss2 (Multi 2) Offset 3369440
+Reemplazar 02 por FF, se cambia el límite de 2 a 255
+
+
